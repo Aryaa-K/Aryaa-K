@@ -1,7 +1,16 @@
-## Hi there 👋
+## Hi, This is Arya Kurup 👋
 
 <!--
-**Aryaa-K/Aryaa-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am I am a Data Science graduate student at Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
+
+### Tech Stack
+Programming Language - Python, Java, C, C++
+
+Data Visualization Tools - PowerBI, Tableau, Excel, OpenCV
+
+Machine Learning Algorithms: Linear Regression, Logistic Regression, Decision Tree, Convolutional Neural Networks, Recurrent Neural Network
+
+Certifications: Fundamentals of Deep Learning (NVIDIA, 2022), Accelerating End-to-End Data Science Workflows (NVIDIA, 2023)**Aryaa-K/Aryaa-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +23,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Data Science graduate student at Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
+
+### Tech Stack
+Programming Language - Python, Java, C, C++
+
+Data Visualization Tools - PowerBI, Tableau, Excel, OpenCV
+
+Machine Learning Algorithms: Linear Regression, Logistic Regression, Decision Tree, Convolutional Neural Networks, Recurrent Neural Network
+
+Certifications: Fundamentals of Deep Learning (NVIDIA, 2022), Accelerating End-to-End Data Science Workflows (NVIDIA, 2023)
