@@ -1,7 +1,7 @@
 ## Hi, This is Arya Kurup 👋
 
 <!--
-I am I am a Data Science graduate from Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
+I am a Data Science graduate from Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
 
 ### Tech Stack
 Programming Language - Python, Java, C, C++
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Science graduate student at Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
+I am a Data Science graduate from Pace University. I am actively exploring the exciting intersection of data analysis, machine learning, and artificial intelligence to uncover actionable insights and solve complex problems.
 
 ### Tech Stack
 Programming Language - Python, Java, C, C++
